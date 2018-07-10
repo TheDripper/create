@@ -1,0 +1,37 @@
+[data-contrast="high"] h1, [data-contrast="high"] h2, [data-contrast="high"] h3, [data-contrast="high"] h4, [data-contrast="high"] h5, [data-contrast="high"] h6, [data-contrast="high"] p, [data-contrast="high"] li, [data-contrast="high"] a, [data-contrast="high"] label, [data-contrast="high"] div span, [data-contrast="high"] i {
+  color: white !important; }
+
+[data-contrast="high"] #accessibilitymenu {
+  background: black; }
+
+[data-contrast="high"] #newsandevents #feature {
+  background: black; }
+
+[data-contrast="high"] footer p a {
+  color: white !important; }
+
+[data-contrast="high"] footer .copyright * {
+  color: white !important; }
+
+[data-contrast="high"] #header {
+  background: black !important; }
+
+[data-contrast="high"] .sub-menu {
+  background: black !important; }
+
+[data-contrast="high"] li:hover {
+  background: black !important; }
+
+[data-contrast="high"] a:hover {
+  text-decoration: underline; }
+
+[data-contrast="high"] .supportus {
+  background: black !important;
+  border: 1px solid white; }
+
+[data-contrast="high"] .newsletter {
+  background: black !important; }
+
+[data-contrast="high"] .sidebar li.parent a {
+  background: black;
+  border: 1px solid white; }
